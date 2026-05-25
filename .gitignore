@@ -1,2 +1,6 @@
+output/
+logs/
+spark-logs/
+target/
+*.jar
 *.class
-*.log
