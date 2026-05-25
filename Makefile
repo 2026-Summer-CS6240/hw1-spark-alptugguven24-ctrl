@@ -17,7 +17,7 @@ hdfs.input=input
 hdfs.output=output
 # AWS EMR Execution
 aws.emr.release=emr-6.10.0
-aws.bucket.name=cs6240-demo-bucket
+aws.bucket.name=cs6240-hw1-spark-alptugguven
 aws.input=input
 aws.output=output
 aws.log.dir=log
